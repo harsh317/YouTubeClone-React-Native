@@ -7,6 +7,10 @@ https://user-images.githubusercontent.com/66161239/130355097-5e027688-e357-47a4-
 https://decodebuzzing.medium.com/full-stack-youtube-clone-using-react-native-part-0-315d606ca107
 ### Part 1 (navigation work)
 https://decodebuzzing.medium.com/full-stack-youtube-clone-using-react-native-part-1-12fd7ed771e2
+### Part 2 (Search Screen)
+https://medium.com/codex/full-stack-youtube-clone-using-react-native-part-2-22ac1b0330d2
+### Part 3 (VideoPlayer Screen)
+https://decodebuzzing.medium.com/full-stack-youtube-clone-using-react-native-part-3-c99f44b127f9
 
 ## Features
 * 1st when the app starts we see Random videos
